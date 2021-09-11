@@ -2,7 +2,7 @@
 For CSV Input:
 * a valid csv
 * time are incrementing from 00:00 to 90:00, and time must be in equal or in between these values
-* POSSES must be explicitly present in the csv after when scoring or break when there is change of ball possession like:
+* POSSES, START must be explicitly present in the csv after scoring or break when there is change of ball possession like:
 ```
 05:00, SHOT, A
 05:00, SCORE, A
